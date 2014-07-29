@@ -27,3 +27,4 @@ default['apt']['compile_time_update'] = false
 default['apt']['key_proxy'] = ''
 default['apt']['cache_bypass'] = {}
 default['apt']['periodic_update_min_delay'] = 86_400
+default['apt']['compile_time_update'] = true
